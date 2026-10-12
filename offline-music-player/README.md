@@ -1,4 +1,5 @@
-> [!NOTE] - This sub project is currently undergoing a rework and rewrite.
+> [!NOTE]
+> - This sub project is currently undergoing a rework and rewrite.
 
 # offline-music-player
 Download any file and it plays it randomly, you can pause it by typing p 
