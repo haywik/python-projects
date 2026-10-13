@@ -1,7 +1,7 @@
 This repo, python-projects, is used for any python mainly scripts that I have made, find useful and I use in the real world.
 
  > ## General Summary of contents
-> - `archive` Any dead or no longer useful projects.
+> - `archive` Any dead or no longer useful projects, individual projects may have there own archives, if that script is dead but the project is still active.
 > - Any other project folders, to be written here
 
 ## Further note
