@@ -10,7 +10,7 @@ Cli-website-monitor is a CLI tool to monitor mutliple sub domains at once, it se
 3. Run the script
 
 > [!NOTE] 
-- - The website must have JSON data at /status-b path
+> - The website must have JSON data at /status-b path
 
 ## JSON data at /status-b
 
