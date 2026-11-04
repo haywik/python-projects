@@ -15,6 +15,6 @@ cmds=[
 for i in cmds:
   try:
     subprocess.run(i)
-  except:
-    pass
+  except Exception as e:
+    print(e)
   
